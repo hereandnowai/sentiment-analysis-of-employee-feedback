@@ -1,0 +1,5 @@
+{
+  "name": "Employee Feedback Analyzer",
+  "description": "An application to analyze the sentiment, intensity, summary, moderation, and actionable insights from employee feedback using Gemini API.",
+  "requestFramePermissions": ["microphone"]
+}
